@@ -5,8 +5,8 @@ public class Bulbasaur {
     // Constructor
     public Bulbasaur() {
         // TODO: Initialize id and level with appropriate values
-        this.id = id;
-        this.level = level;
+        id = 1;
+        level = 1;
     }
 
     // setLevel method
